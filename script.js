@@ -8,7 +8,7 @@ let student = true;
 
 // console ma print garni tarika
 console.log("Hello ", name);
-console.log("you are ",age , " years old" );
+console.log("you are",age , "years old" );
 console.log("Enrolled:", student)
 
 
